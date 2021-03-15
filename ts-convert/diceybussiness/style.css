@@ -1,0 +1,9 @@
+.dice {
+    width: auto;
+    height: auto;
+    float: left;
+    font-size: 10em;
+    background-color: rgb(238, 109, 50);
+      color: bisque;
+      border: 2px solid black;
+  }
